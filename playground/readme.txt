@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-GIt is free software.
-test line
+Git is a version control system.
+GIt is free software
